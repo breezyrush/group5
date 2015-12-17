@@ -15,7 +15,7 @@ class Artist(models.Model):
 class Album(models.Model):
     album = models.CharField(max_length=200)
     artist = models.ForeignKey(Artist)
-
+    type = models.CharField(max_length=200)
 
 class Song(models.Model):
     song = models.CharField(max_length=200)

@@ -23,4 +23,5 @@ urlpatterns = [
     url(r'^login/$', Login.as_view()),
     url(r'^addGenreForm/$', addGenreForm),
     url(r'^addGenre/$', addGenre),
+    url(r'^deleteAlbum/$', deleteAlbum),
 ]
