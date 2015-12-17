@@ -1,0 +1,19 @@
+Musixscore.com is an online service providing sheet music to customers. 
+On the “browse music” Web page, customers select a genre of music from a dropdown list.
+The web page fetches a list of performers, musicians, or groups that match a genre, 
+which is formatted as a drop-down list. When a selection is made from the performers
+drop-down list, the Web page fetches data to display a third drop-down list displaying
+all of the CDs or other works of the performer. When a CD is selected, the Web page 
+fetches data to obtain all the songs on the CD in a fourth drop-down list. The viewer 
+may make multiple selections. When the Add to Shopping Cart image is clicked, the songs 
+are added to the shopping cart. The viewer may change any of the  drop-down lists to 
+select additional sheet music, and the process is repeated.
+
+TODO:
+1. Write all the features needed to accomplish the programming tasks.
+2. Reflect the tasking of each member in a file named Tasks.txt and save it in
+a folder named GTasks at the root of this repository.
+3. Create a new Folder named App at the root of this repository, to contain
+the Django codes.
+
+God Bless and Happy Christmas!
