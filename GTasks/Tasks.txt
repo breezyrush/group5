@@ -1,0 +1,18 @@
+FEATURES:
+1. Login - Lemuel Jay Vallinas
+2. Logout - Lemuel Jay Vallinas
+3. Sign in - Lemuel Jay Vallinas
+4. Add a genre - Lemuel Jay Vallinas
+5. Delete a genre - Lemuel Jay Vallinas
+6. Update a genre - Dexter Esin
+7. Add performer/musician/group - Dexter Esin
+8. Delete performer/musician/group - Dexter Esin
+9. Update performer/musician/group - Dexter Esin
+10 Add a cd album/other works of a performer/musican/group - Vince Yancy Cadutdut
+11.Delete a cd album/other works of a performer/musican/group - Vince Yancy Cadutdut
+12 Update a cd album/other works of a performer/musican/group - Vince Yancy Cadutdut
+13. Add a song list in the cd album - Vince Yancy Cadutdut
+14. Delete a song list in the cd album - Arlene Yosoya
+15. Update a song list in the cd album - Arlene Yosoya
+16. Add to cart list - Arlene Yosoya
+17. Cancel the list - Arlene Yosoya
