@@ -1,0 +1,38 @@
+{% load staticfiles %}
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="{% static 'bootstrap-3.3.5/css/bootstrap.css' %}">
+    <script type="text/javascript" src="{% static 'jquery-1.11.3.js' %}"></script>
+    <script type="text/javascript" src="{% static 'controller.js' %}"></script>
+    <title></title>
+</head>
+<body>
+    <div class="container">
+    <h1 class="text-center">ADD GENRE</h1>
+    <form action="addGenre" method="post">
+    <div class="form-group">
+     <input type="text" class="form-control" placeholder="Genre" name="genre">
+</div>
+
+        <input type="button" class="btn btn-primary form-control" value="Add Genre" onclick="add_genre()">
+    </form>
+    <table>
+    <thead>
+      <th>
+      <td>GENRE</td>
+</th>
+</thead>
+<tbody>
+
+    {% for each g in genre %}
+        <tr>
+        <t
+</tr>
+    {% endfor %}
+</tbody>
+</table>
+</div>
+</body>
+</html>
